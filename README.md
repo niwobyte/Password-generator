@@ -9,6 +9,7 @@ Einfach die Befehle unten kopieren und im Terminal eingeben.
 **Achtung!:** Damit die Befehle funktionieren, musst du Git installiert haben. Andernfalls kannst du einfach auf GitHub den Hauptordner herunterladen oder unter [Releases](https://github.com/niwobyte/Password-generator/releases/tag/V1.0.0) direkt ein .exe Programm installieren.
  
  ***die Befehle***
-```git clone https://github.com/niwobyte/Password-generator.git```
-``` cd Password-generator```
-```pip install -r requirements.txt```
+`mkdir Generator
+cd Generator
+git clone https://github.com/niwobyte/Password-generator.git
+pip install -r requirements.txt`
