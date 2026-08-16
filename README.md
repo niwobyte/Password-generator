@@ -13,5 +13,6 @@ Einfach die Befehle unten kopieren und im Terminal eingeben.
 mkdir Generator
 cd Generator
 git clone https://github.com/niwobyte/Password-generator.git
+cd Password-generator
 pip install -r requirements.txt
 ```
