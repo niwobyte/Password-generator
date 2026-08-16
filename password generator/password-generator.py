@@ -64,8 +64,9 @@ window = ctk.CTk()
 window.geometry("500x500")
 window.resizable(False, False) 
 window.title("Password generator")
-window.iconbitmap(icon_photo_link)
-
+try:
+    window.iconbitmap(icon_photo_link)
+except: pass
 
 Uppercase_var = ctk.BooleanVar()
 Lowercase_var = ctk.BooleanVar()
