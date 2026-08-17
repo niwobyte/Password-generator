@@ -2,7 +2,7 @@ import customtkinter as ctk
 import secrets
 import pyperclip
 
-icon_photo_link = "icon/password-generator-icon.ico"
+icon_photo_link = "Password-generator/password generator/icon/password-generator-icon.ico"
 
 
 def passwordGeneration():
